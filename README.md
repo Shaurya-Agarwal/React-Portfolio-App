@@ -1,3 +1,3 @@
 To visit the website please follow the link:
 
-https://flamboyant-wozniak-c81b87.netlify.app/
+https://nifty-visvesvaraya-4ba55d.netlify.app/
